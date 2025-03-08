@@ -1,6 +1,5 @@
 # 🧮 Распределенный вычислитель арифметических выражений
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/calc_service)](https://goreportcard.com/report/github.com/yourusername/calc_service)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Система для параллельного вычисления математических выражений с поддержкой распределенных вычислений.
@@ -18,7 +17,7 @@
 ### Запуск через Docker Compose
 
 ```bash
-git clone https://github.com/yourusername/calc_service.git
+git clone https://github.com/Alehamrom/calc_service_V3.git
 cd calc_service
 docker-compose up --build
 ```
